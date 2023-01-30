@@ -1,37 +1,32 @@
-# Privacy Policy
+تنطبق الشروط والأحكام التالية على الموقع الرسمي ل "واصلنك" بالاضافة الي كافة تطبيقاته المدعومة بأجهزة الأندرويد و اي او اس. ويجب الموافقة على أحكام تلك الإتفاقية بعد قراءة شروطها بعناية و قبل انشاء اي حساب جديد او استخدام خدمات الموقع و محتواه، بمجرد تعبئتك لاستمارة تسجيل الدخول لاول مرة؛ فذلك يعني موافقتك على كافة الشروط و الاحكام التالية و التعهد بالالتزام بها بدون قيود:
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+خدمات الموقع
+يسعي الموقع الي تقديم خدمات فريدة عن طريق عرض المنتجات و السلع و الاحتياجات الاساسية، وبذلك فهو يعمل بمثابة منصة خدمية تهدف الي ربط العملاء بالمحلات و مندوبين التوصيل لعملية طلب سريعة و سهلة، حيث يتمكن من خلاله الزوارتصفح المطاعم و الانشطة القريبة والاطلاع على تقييماتهم، كما يتيح للمطاعم المحلية و المحلات التجارية الفرصة لعرض خدماتهم وتسويق منتجاتهم للزبائن من خلال مزايا التطبيق.
 
+لا يقوم الموقع بصناعة اوانتاج او تجهيز اي من المنتجات المرجو شرائها او بيعها ولا يعتبر الموقع مسئولا عن مستوى الجودة ،وبالتالي غير مسئول عن أي إصابة أو تلف أو خسارة أو تأخير للطلبات أو أي مخالفة عرضية وغير متوقعة لشخص أو متعلقاته شخصية. انما يسمح الموقع للعملاء بالمشاركة بارائهم عند كل طلب لمساعدة العملاء المحتملين باتخاذ قرار الشراء المناسب و من اجل خلق تجربة شراء متميزة.
 
-## Collection of Routine Information
+الموقع غير مسئول او ملزم عن أي مواد او منتجات او خدمات قد تكون ضارة بالصحة او قد تحتمل التسبب في اي نوع من الاصابات او الوعكات الصحية ، أو التي قد لا تلقي اعجاب العملاء عند وصول الطلب.
+سلوكيات المستخدمين
+عند ادخالك اي بيانات او محتوى الى الموقع، فإنك توافق علي الالتزام بقواعد الاداب العامة و المتعارف عليها في المجتمع، وفي حالة مخالفتك لتلك القواعد، فيحق لادارة الموقع اتخاذ كل التدابير و الاجراءات اللازمة لمنعك من استخدام الموقع او تسجيل دخولك مرة اخرى او مسائلتك القانونية في حالة التسبب في ضرر مادي او معنوي.
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+يعتبر المسخدمين مسئولين مسئولية كاملة عن صحة البيانات الشخصية والمشاركات و يشمل ذلك صحة عناوين التوصيل و ارقام التليفونات. ويحق لـ"واصلنك" تحرير واعادة صياغة أي من البيانات الشخصية والمشاركات اواعادة تصنيفها اواعادة هيكلتها او تغيير موضعها و كذلك الحق الكامل في الفرز المسبق و حذف أي من تلك المعلومات التي قد تبدوغير ملائمة او تتعارض مع شروط الاستخدام.
+حقوق النشر
+يمنح المستخدمين حق النشر الكامل الي "واصلنك" و هو ترخيص دائم و غير قابل للتفاوض او النقض وغير قابل للنسخ اواعادة الصياغة اوالترجمة اوالاقتباس الكامل او الجزئي اوالتوزيع من قبل المستخدمين او الزوارلاي غرض بدون اذن كتابي من "واصلنك"، ويحق ل"واصلنك" استخدام كافة البيانات او محتوي المشاركات بغرض الدعاية والإعلان التجاري او الترويج، بما في ذلك المنتجات والنصوص، والصور الفوتوغرافية، والمواد المرئية والفيديو والروابط و غيرها.
+سياسة التسعير و وسائل الدفع
+يجب على كل مستخدم دفع التكلفة الاجمالية للمنتجات المطلوبة بواسطة وسائل الدفع المعتمدة فقط. وسيتم عرض طرق الدفع المقبولة التي يمكن إجراؤها عند طلب الخدمة. علما بان رسوم التوصيل تعتمد على المنطقة و قد يتم تحصيل رسوم توصيل اضافية في اوقات الذروة.
 
+تلتزم المحلات بتحديث أسعار المنتجات بانتظام لضمان أسعار تنافسية في السوق وبأسعار معقولة و واقعية. بما في ذلك رسوم التوصيل ورسوم الطلبات الاضافية الزائدة. وكذلك تلتزم المحلات بدفع كافة الضرائب والرسوم المقررة من الدولة.
+توافر المنتجات وخدمات التوصيل
+تقوم المحلات بتحديث قوائم الطعام و المنتجات الاخرى بانتظام لضمان توافر المنتجات المطلوبة في مخازنهم. في حالة عدم توافر طلبك، سيقوم احد مسئولين بالمحل بالتواصل معك من اجل عرض البادائل المتاحة، وبالتالي، سيتم الغاء طلبك او استبداله.
 
-## Cookies
+يحق للمحلات قبول او رفض طلبك في حالة عدم توافر المنتجات المطلوبة، مع العلم بأن كلا من مندوبين "واصلنك" او مندوبين المحل سوف يقومون باتخاذ كافة الوسائل الممكنة للوفاء بوقت التوصيل المتوقع، ومع ذلك قد يتأثر وقت التوصيل بعوامل خارجه عن السيطرة.
 
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+وفقًا لوقت الاستلام والموقع المحددين، سينتظر مندوب التوصيل لمدة زمنية قصيرة أقصاها 10 دقائق. نوصي العملاء بالتواجد في وقت ومكان الاستلام المقرر.إذا تأخر طلبك دون أي إشعار مسبق ، يرجى الاتصال بالمحل مباشرة من خلال وسائل الاتصال المذكورة في رسالة تاكيد طلبك او التواصل مع مندوب التوصيل المذكور في اشعار المتابعة او ارسال شكوى ل "واصلنك" عن طريق وسائل الاتصال المذكورة في رابط "اتصل بنا" لطلب المساعدة.
+الغاء او تعديل الطلبات
+يجوز الالغاء او التعديل خلال 5 دقائق فقط من تاكيد الطلب. ولا يجوز الغاء او تعديل الطلبات بعد الوقت المذكور او بعد التسليم، حيث يتم دفع جميع المدفوعات بالكامل من قبل العميل. الموقع غير مسؤول عن استرداد رسوم التوصيل في حالة الغاء الطلب لاسباب شخصية.
 
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
-
-## Links to Third Party Websites
-
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
-
-
-## Security
-
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
-
-
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+في حالة حدوث خطأ، يلتزم المحل بالتحقيق و اتخاذ التدابير اللازمة لضمان رضاء العميل. الموقع غير مسئول عن تكبد اي تعويضات.
+الشكاوى و المقترحات
+ينصح بتوجيه المشكلة الأساسية إلى المحلات الموردة للمنتجات مباشرة من اجل تصحيحًا سريعًا وضمنيا للمشكلة. نظرًا لأن اغلب الحلول يمكن طرحها للمعالجة الفورية أثناء الطلب. ومع ذلك، لضمان رضا العملاء التام، في حالة وجود أي شكاوى او مقترحات تتعلق بخدماتنا يرجى مراسلتنا عن طريق وسائل الاتصال المذكورة في رابط "اتصل بنا"
+حدود المسئولية
+تعمل "واصلنك" بمثابة موقع للتسويق الرقمي وهي وسيط بين العملاء والمحلات. سواء كان الطلب عن طريق الموقع الاليكتروني او التطبيق، "واصلنك" غير مسؤولة عن أي نفقات إضافية او تعويضات في حالة الأضرار والخسائر المباشرة أو غير المباشرة التي تتكبدها أسباب مثل: سوء احوال الطقس ، والأعمال الحكومية ، والحوادث المرورية، والاضطرابات المدنية ، وأعمال الشغب العامة ، والسرقة ، والاعطال الفنية، وأعمال الانشائية من قبل السلطات.
